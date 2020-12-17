@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOTDetails", "MOTDetails.csproj", "{80F17BFA-BC78-4727-8B30-60B9261BBFE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80F17BFA-BC78-4727-8B30-60B9261BBFE2}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{80F17BFA-BC78-4727-8B30-60B9261BBFE2}.Debug|anycpu.Build.0 = Debug|anycpu
+		{80F17BFA-BC78-4727-8B30-60B9261BBFE2}.Release|anycpu.ActiveCfg = Release|anycpu
+		{80F17BFA-BC78-4727-8B30-60B9261BBFE2}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
